@@ -1,0 +1,23 @@
+<! ==== Components Required ==== >
+
+◉ Arduino Uno Microcontroller.
+
+◉ RFID RC522 Kit (Reader + Tag)
+
+◉ Servo Motors x 2
+
+◉ Usb Webcam 
+
+◉ Jumper cables
+
+
+
+<! ==== Softwares ==== >
+
+◉ Any Linux Distro
+
+◉ Arduino IDE
+
+◉ Matlab R2012b
+
+◉ XAMPP/LAMPP (with Maria DB)
